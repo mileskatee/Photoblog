@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    font-family: Playfair Display, serif;
+}
+
+.ul-photoblog {
+    padding: 0;
+    text-decoration: none;
+}
+
+.ul-nav {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+a:hover {
+    color: #03A9F4;
+}
+
+.a-nav {
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    color: #7D7D7D;
+}
+
+.p-lifestyle {
+    font-family: Ubuntu, sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16.09px;
+    color: #B4AD9E;
+}
+
+.btn-load-more {
+    width: 165px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 50%;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.p-name {
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39.99px;
+    letter-spacing: 0%;
+}
+
+.p-description {
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 14px;
+}
